@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Home"
+    android:id="@+id/home"
+    android:icon="@drawable/ic_home_"/>
+<item
+    android:title="profile"
+     android:id="@+id/profile"
+    android:icon="@drawable/icon_profile"/>
+    <item
+        android:title="post"
+        android:id="@+id/post"
+        android:icon="@drawable/ic_post"/>
+    <item
+        android:title="reels"
+        android:id="@+id/reels"
+        android:icon="@drawable/ic_reels"/>
+    <item
+        android:title="likebutton"
+        android:id="@+id/liked"
+        android:icon="@drawable/ic_heart"
+        />
+
+
